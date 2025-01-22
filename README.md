@@ -1,3 +1,6 @@
-#Terminal Todo
+# Terminal Todo
 
-a todo list program for the terminal written in C using ncurses library
+A WIP to-do list program written in C using ncurses terminal manipulation. 
+
+Currently has full functionality except for removing tasks from the list. Will add at a later date.
+
